@@ -1,1 +1,1 @@
-# Soy junior
+# Ejercicio_clase5_informatica
